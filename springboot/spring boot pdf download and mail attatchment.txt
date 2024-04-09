@@ -1,0 +1,11 @@
+https://zetcode.com/springboot/servepdf/
+
+// JavaMail requires an InputStreamSource that creates a fresh stream for every call.
+https://stackoverflow.com/questions/5677490/how-to-send-email-with-attachment-using-inputstream-and-spring
+
+//Read mail from springboot
+https://java.tutorialink.com/spring-boot-read-and-new-mail-listener-on-spring-boot-starter-mail/
+
+https://github.com/huytmb/mail-receiver/tree/9409b3887d0dc4e4774c788b9c912d64b8f7fbaa
+
+https://www.javatpoint.com/example-of-receiving-email-using-java-mail-api

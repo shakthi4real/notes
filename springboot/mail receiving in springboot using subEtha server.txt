@@ -1,0 +1,27 @@
+https://redamessoudi.com/receive-emails-with-subetha-springboot/
+code : https://github.com/redamessoudi/subethasmtp-springboot
+
+
+https://github.com/eugenp/tutorials/blob/master/core-java-modules/core-java-networking-3/src/main/java/com/baeldung/downloadattachments/DownloadEmailAttachments.java
+
+
+converting Message to File object
+https://stackoverflow.com/questions/1748183/download-attachments-using-java-mail
+
+
+https://www.developer.com/open-source/monitoring-email-accounts-imap-in-java/
+
+
+downloading attatchment in email
+````````````````````````````````
+1)https://www.baeldung.com/java-download-email-attachments
+
+
+2)https://www.codejava.net/java-ee/javamail/get-attachments-in-e-mail-messages-using-javamail
+
+for serching based on criteria
+https://www.codejava.net/java-ee/javamail/using-javamail-for-searching-e-mail-messages
+
+
+https://stackoverflow.com/questions/11240368/how-to-read-text-inside-body-of-mail-using-javax-mail
+

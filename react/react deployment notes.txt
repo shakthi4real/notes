@@ -1,0 +1,25 @@
+if homepage : "."
+
+Local
+localhost:8080/demo/staff , localhost:8080/company only working
+localhost:8080/demo/staff/a1 , localhost:8080/company/a1 not working
+
+Server
+demo.smtspl.in/company working
+demo.smtspl.in/company/a1 not working
+demo.smtspl.in/demo/staff , demo.smtspl.in/demo/staff/a1 not working
+
+--------------------------------------------------
+
+if homepage : "localhost:8080/demo"
+
+localhost:8080/demo/staff , localhost:8080/company 
+localhost:8080/demo/staff/a1 , localhost:8080/company/a1 
+all are working
+
+----------------------------------------------------
+
+if no homepage is given in package.json
+Nothing works
+
+

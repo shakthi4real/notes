@@ -1,0 +1,39 @@
+postgres
+--------
+
+see current time in timestamp
+`````````````````````````````
+SELECT now()::timestamp(0);
+
+
+convert timestamp to milliseconds
+`````````````````````````````````
+https://dba.stackexchange.com/a/2759
+generalised query : SELECT EXTRACT(EPOCH FROM (SELECT now())) * 1000;       //get current time in milliseconds
+
+
+convert milliseconds to timestamp
+`````````````````````````````````
+SELECT TO_TIMESTAMP(1401432881230::double precision / 1000);
+
+
+
+
+java
+----
+see current time in timestamp 
+`````````````````````````````
+System.out.println(System.currentTimeInMillis());
+
+
+convert timestamp to milliseconds
+`````````````````````````````````
+https://stackoverflow.com/questions/26637168/how-to-convert-a-date-to-milliseconds
+
+
+
+convert milliseconds to timestamp
+`````````````````````````````````
+double d = 1677942827336.148000;
+System.out.println(new Timestamp((long) d));
+

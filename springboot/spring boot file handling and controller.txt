@@ -1,0 +1,5 @@
+//convert file to inputstream
+https://www.baeldung.com/convert-file-to-input-stream
+
+//download file sent from Frontend to DB
+https://www.bezkoder.com/spring-boot-upload-file-database/

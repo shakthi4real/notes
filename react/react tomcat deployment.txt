@@ -1,0 +1,7 @@
+https://www.learninjava.com/react-router-apache-nginx-tomcat/
+
+https://create-react-app.dev/docs/deployment/
+
+https://stackoverflow.com/questions/41246261/react-routing-is-able-to-handle-different-url-path-but-tomcat-returns-404-not-av/41249464#41249464
+
+https://www.freecodecamp.org/news/how-to-deploy-react-router-based-app-to-netlify/

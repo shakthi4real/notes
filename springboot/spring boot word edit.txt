@@ -1,0 +1,9 @@
+//use this
+https://stackoverflow.com/a/40913515/20579467
+
+
+https://mkyong.com/java/java-read-and-write-microsoft-word-with-apache-poi
+
+
+
+https://www.knowledgefactory.net/2021/09/spring-boot-generate-microsoft-word.html

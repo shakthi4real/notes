@@ -1,0 +1,20 @@
+//how to download file in frontend applicatoin by calling backend API
+https://stackoverflow.com/a/50695407/20579467
+https://stackoverflow.com/a/20509354/20579467
+
+
+//frontend code
+https://roytuts.com/download-file-from-server-using-react/
+downloadEmployeeData = () => {
+		fetch('http://localhost:8080/employees/download')
+			.then(response => {
+				response.blob().then(blob => {
+					let url = window.URL.createObjectURL(blob);
+					let a = document.createElement('a');
+					a.href = url;
+					a.download = 'employees.json';
+					a.click();
+				});
+				//window.location.href = response.url;
+		});
+	}

@@ -1,0 +1,4 @@
+https://techdozo.dev/deploying-a-restful-spring-boot-microservice-on-kubernetes/
+
+//how to deploy on tomcat with war file (check pom.xml , main class)
+https://github.com/sk444/firstSpringBootApplication

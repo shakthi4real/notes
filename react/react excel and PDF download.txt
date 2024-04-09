@@ -1,0 +1,7 @@
+https://coderanch.com/t/698047/languages/Download-xlsx-file-reactJS-Excel
+
+https://dev.to/jasurkurbanov/how-to-export-data-to-excel-from-api-using-react-25go
+
+For PDF download
+https://www.freecodecamp.org/news/how-to-create-pdf-reports-in-react/
+

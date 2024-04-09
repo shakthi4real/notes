@@ -1,0 +1,80 @@
+1)
+for(int i=0 ; i<4 ; i++){
+	for(int j=0 ; j<4 ; j++){
+		sout(g);
+	}
+}
+
+2)
+for(int i=0 ; i<4 ; i++){
+	for(int j=0 ; j<4 ; j++){
+		sout(i);
+	}
+}
+
+
+3)
+for(int i=0 ; i<4 ; i++){
+	for(int j=0 ; j<4 ; j++){
+		sout(j);
+	}
+}
+
+
+
+4)
+for(int i=0 ; i<4 ; i++){
+	for(int j=0 ; j<4 ; j++){
+		sout(i          j);
+	}
+}
+
+
+5)
+for(int i=2 ; i<4 ; i++){
+	for(int j=0 ; j<4 ; j++){
+		sout("g");
+	}
+}
+
+
+6)
+for(int i=-1 ; i>-5 ; i++){
+	for(int j=0 ; j<4 ; j++){
+		sout("g");
+	}
+}
+
+
+7)
+for(int i=0 ; i<8 ; i+=3){
+	for(int j=0 ; j<3 ; j++){
+		sout(i          j);
+	}
+	i--;
+}
+
+
+8)
+for(int i=0 ; i<4 ; i++){
+	for(int j=0 ; i<j ; j++){
+		sout(j);
+	}
+}
+
+9)
+for(int i=0 ; i<4 ; i++){
+	for(int j=0 ; j<3 ; j++){
+		sout(i          j);
+	}
+	i--;
+}
+
+
+10)
+for(int i=0 ; i<8 ; i+=3){
+	for(int j=0 ; j<3 ; j++){
+		sout(i          j);
+	}
+	i--;
+}

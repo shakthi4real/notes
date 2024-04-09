@@ -1,0 +1,10 @@
+https://www.postgresqltutorial.com/postgresql-administration/postgresql-backup-database/
+
+how to restore
+https://www.youtube.com/watch?v=26_Bpdf2aH8
+
+
+how to backup and restore
+https://www.youtube.com/watch?v=43MgeBsc9IM
+
+https://www.youtube.com/watch?v=S108Rh6XxPs&t=1s

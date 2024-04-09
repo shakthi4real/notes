@@ -1,0 +1,15 @@
+https://medium.com/analytics-vidhya/how-to-package-your-react-app-with-spring-boot-41432be974bc
+
+https://blog.mukundmadhav.com/build-and-deploy-react-app-with-spring-boot-and-mysql-6f888eb0c600#37fa
+
+https://developer.okta.com/blog/2022/06/17/simple-crud-react-and-spring-boot#configure-maven-to-build-and-package-react-with-spring-boot
+
+https://marco.dev/deploy-java-react-one
+
+//fixing routing from spring boot to react
+https://dimitr.im/bundling-react-spring-boot#fixing-routing
+
+https://www.bezkoder.com/integrate-reactjs-spring-boot/
+
+https://github.com/facebook/create-react-app/blob/main/packages/cra-template/template/README.md
+

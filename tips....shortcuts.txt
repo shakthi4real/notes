@@ -1,0 +1,23 @@
+(vs code)
+ctrl + d                        - generate multiple cursor at places that occur the same		
+alt + up arrow/ down arrow      - move a piece of code up and down		
+ctrl + x                        - delete line
+ctrl + `                        - open new terminal
+shift + alt + f                 -  indent code
+alt + l + o                     - open browser and check output
+
+(intellij)
+ctrl + space                    - recommendation
+ctrl + shift + f                - find in project a piece of text
+ctrl + p                        - suggest parameters
+ctrl + alt + i                  - indent code
+ctrl + r                        - replace in the file that you are in
+ctrl + shift + r                - replace in entire project
+ctrl + shift + -               	- collapse all methods
+ctrl + shift + +                - expand all methods
+ctrl + alt + - 			- collapse one particular method
+ctrl + alt + + 			- expand one particular method
+ctrl + e 			- view recently opened files
+
+(Browser)
+ctrl + shift + j - open console

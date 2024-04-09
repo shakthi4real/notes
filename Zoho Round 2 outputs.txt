@@ -1,0 +1,5 @@
+6)Derrivd::show() called
+7)return x*z
+8) true false true false false
+9)3
+10)

@@ -1,0 +1,45 @@
+1)buisness api - involves third party apps like twilio. Paid. Hosted on twilio server
+2)cloud api - free. Maintained by meta. Hosted on meta server
+
+use cloud api
+
+
+https://respond.io/blog/whatsapp-cloud-api
+
+
+A given phone number can only be on one platform at a time: Either on Cloud API or on On-Premises. This means that you cannot use a production phone number on both On-Premises and Cloud API at the same time.
+
+
+
+follow all these steps
+----------------------
+https://developers.facebook.com/docs/whatsapp/cloud-api/get-started
+
+1)Register as a Meta Developer (while looged in to FB account)
+https://developers.facebook.com/async/registration/dialog/
+
+2)create an app
+https://developers.facebook.com/apps/
+
+3)send message using hello-world template(no need to opt-in)
+
+opt-in : user confirming that they like to receive messages from whatsapp buisness number. They can do this by sending a message on whatsapp to the whatsapp buisness number
+
+
+4)Send text,media messages(need to opt-in)
+
+
+
+generate permanent access token
+-------------------------------
+https://www.youtube.com/watch?v=gqiBzFlF44c
+
+https://business.facebook.com/settings/system-users/100090385226379?business_id=504162968527574
+
+
+
+
+
+
+WhatsApp offers two different products for businesses to message at scale: WhatsApp Cloud API and WhatsApp Business API. The former is hosted on Meta’s cloud servers whereas the latter is hosted on a WhatsApp Partner’s server or a business’s server.
+

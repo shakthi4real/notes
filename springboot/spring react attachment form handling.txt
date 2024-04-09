@@ -1,0 +1,11 @@
+https://stackoverflow.com/a/49991403
+
+https://www.positronx.io/react-multiple-files-upload-with-node-express-tutorial/
+
+Here, in the REST call, we are not setting the Content-Type as multipart/form-data. The browser will do it for us along with setting up the multipart boundary. Else, we will get the error as org.apache.tomcat.util.http.fileupload.FileUploadException: the request was rejected because no multipart boundary was found  at the server-side.
+
+
+https://www.devglan.com/react-js/file-upload-react-spring-rest
+
+https://stackoverflow.com/q/49845355
+https://stackoverflow.com/questions/49845355/spring-boot-controller-upload-multipart-and-json-to-dto
