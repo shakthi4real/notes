@@ -1,6 +1,0 @@
-//creating table in a particular schema
-https://stackoverflow.com/questions/36355358/adding-schema-name-to-entity-in-spring-data
-
-
-//generation of id sequence when diffrent schemas are involved
-https://stackoverflow.com/questions/45146868/hibernate-table-and-sequence-in-different-schema

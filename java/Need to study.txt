@@ -1,20 +1,4 @@
 classpath
-serializable
 System.out.print() detailed analysis
-appendable
-CharSequence
-static method overring
-nested,inner,anonymous class , lambda expressions
-Class.forName
-anonymous object
-default methods
-https://www.geeksforgeeks.org/can-override-private-methods-java/
-functional interface
-generics
-streams
-multithreading
-file handling
 Remote Method Invocation
-https://www.geeksforgeeks.org/functional-interfaces-java/              (functional interface)
-method reference
 design patterns

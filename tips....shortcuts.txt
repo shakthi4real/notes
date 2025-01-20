@@ -9,6 +9,7 @@ alt + l + o                     - open browser and check output
 (intellij)
 ctrl + space                    - recommendation
 ctrl + shift + f                - find in project a piece of text
+shift + shift               	- find a file in project
 ctrl + p                        - suggest parameters
 ctrl + alt + i                  - indent code
 ctrl + r                        - replace in the file that you are in
@@ -18,6 +19,11 @@ ctrl + shift + +                - expand all methods
 ctrl + alt + - 			- collapse one particular method
 ctrl + alt + + 			- expand one particular method
 ctrl + e 			- view recently opened files
+enter (dfm) in file search(shift + shift) to enter distraction free mode and vice versa to exit 
 
 (Browser)
 ctrl + shift + j - open console
+
+(Terminal)
+jps -l  			- show running java processes
+kill -3 (processId from above command (a 5 digit number))	- kills the process
